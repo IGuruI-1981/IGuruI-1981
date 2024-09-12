@@ -1,6 +1,9 @@
 ## About me
 ## 🛠️ Languages and Tools :
-java  Spring  postgresql  html5  css3  css3  android  docker  postman  git
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+</picture>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning to program in java
 - 💞️ I’m looking to collaborate on ...
