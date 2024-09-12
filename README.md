@@ -1,9 +1,6 @@
 ## About me
 ## 🛠️ Languages and Tools :
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-</picture>
+## Contact me:
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning to program in java
 - 💞️ I’m looking to collaborate on ...
