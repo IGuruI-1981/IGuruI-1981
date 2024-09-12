@@ -1,4 +1,5 @@
 ## About me
+ _I'am from Novosibirsk_
 ## 🛠️ Languages and Tools :
 ## Contact me:
 
